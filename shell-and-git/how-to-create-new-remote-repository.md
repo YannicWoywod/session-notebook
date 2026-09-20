@@ -10,3 +10,4 @@
 - Add some files or directories: git add
 - Commit them: git commit
 - Upload your data: git push -u origin main
+- Upload more data with git push
