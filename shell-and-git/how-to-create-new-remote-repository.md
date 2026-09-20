@@ -9,3 +9,4 @@
 - If it's not: Create a new repository on github with the same name, copy the ssh link and do git remote add origin sshlink
 - Add some files or directories: git add
 - Commit them: git commit
+- Upload your data: git push -u origin main
